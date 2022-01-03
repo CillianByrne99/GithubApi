@@ -14,5 +14,3 @@ Top contributors along with their commits
 Active Pull Requests
 Pull Requests by label
 Issues
-
-The data folder contains generated CSV files for the Apache Spark repository and those data are later used for analysis.
